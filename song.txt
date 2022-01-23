@@ -7,10 +7,6 @@ Connecting to GitHub with SSH.
 You can connect to GitHub using the Secure Shell Protocol (SSH),
 which provides a secure channel over an unsecured network.
 
-33333333
-33333333
-33333333
-33333333
-33333333
-33333333
+
+work in progress
 
