@@ -4,3 +4,9 @@ sword and spear
 
 
 111111111 branch_1
+
+
+
+Connecting to GitHub with SSH. 
+You can connect to GitHub using the Secure Shell Protocol (SSH),
+ which provides a secure channel over an unsecured network.
